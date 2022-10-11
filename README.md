@@ -1,5 +1,5 @@
 # Csharp-proyects
-This repository is destinated to store my proyects in C#
+This repository is destinated to store my proyects and practicesin C#
 
 <h2> List of proyects </h2>
 
